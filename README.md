@@ -11,7 +11,7 @@ Use the links below to access each activity or assignment.
 
 A real-world modeling activity where you design collections and documents for a food delivery application.
 
-👉 **[food_delivery_assignment](./food_delivery_assignment)**
+👉 **[food_delivery_assignment](./food_delivery_assignment.md)**
 
 ---
 
@@ -19,7 +19,7 @@ A real-world modeling activity where you design collections and documents for a 
 
 Hands-on exercises to practice MongoDB CRUD, filters, sorting, projections, and updates.
 
-👉 **[lesson_6_mongodb_commands_practice](./lesson_6_mongodb_commands_practice)**
+👉 **[lesson_6_mongodb_commands_practice](./lesson_6_mongodb_commands_practice.md)**
 
 ---
 
@@ -27,7 +27,7 @@ Hands-on exercises to practice MongoDB CRUD, filters, sorting, projections, and 
 
 Covers NoSQL design basics such as embedding vs referencing, schema patterns, and document structures.
 
-👉 **[lesson_6_section_4_datamodeling](./lesson_6_section_4_datamodeling)**
+👉 **[lesson_6_section_4_datamodeling](./lesson_6_section_4_datamodeling.md)**
 
 ---
 
